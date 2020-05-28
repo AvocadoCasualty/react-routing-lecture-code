@@ -32,3 +32,8 @@ img {
   justify-content: center;
   align-items: center;
 }
+.nav-links {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+}
